@@ -12,7 +12,7 @@ impl U256 {
     pub const N: Self = Self([
         0xBFD2_5E8C_D036_4141, 
         0xBAAE_DCE6_AF48_A03B, 
-        0xFFFF_FFFF_FFFF_FFFF, 
+        0xFFFF_FFFF_FFFF_FFFE, 
         0xFFFF_FFFF_FFFF_FFFF
     ]);
 
